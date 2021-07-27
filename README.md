@@ -1,4 +1,8 @@
-<img src="./Home.jpg">
+<p align="center">
+<img src="./L3.png">
+<p align="center" sty>I'm Designer and Developer Priyam Tongia</p>
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam1418&theme=nord)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyam1418&show_icons=true&theme=nord)
