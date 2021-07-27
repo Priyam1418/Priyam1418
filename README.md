@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Priyam1418)
+![counter](https://[YourEndpoint].m.pipedream.net)
 <!--
 **Priyam1418/Priyam1418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
